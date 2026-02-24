@@ -1,17 +1,18 @@
 ## Hello! 👋
 I'm ParrotMan, or the GrumpyMusician!
 
-My Current Projects:
+**My Current Projects:**
 - [Izaki Keyboard](https://github.com/GrumpyMusician/Izaki-Keyboard-App)
 - [Oakridge Wiki](https://github.com/Koyot-Digital/Wiki)
 - [Lego Train Simulator Controller](https://github.com/Mindstorms-for-Train-Simulators/)
 - [Spreadsheet Music Player](https://github.com/GrumpyMusician/spreadsheetmusicplayer)
 
-My Past Projects:
+**My Past Projects:**
 - [Minecraft-Discord Bot Integration](https://github.com/GrumpyMusician/CraftyBot)
 - [Kittyo GeoFS Livery Selector](https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector)
 
-Written With...
+**Written With...**
+<br>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>

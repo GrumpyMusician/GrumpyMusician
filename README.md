@@ -32,4 +32,5 @@ I'm ParrotMan, or the GrumpyMusician!
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/debian/debian-plain.svg" alt="css3" width="40" height="40"/>
 <img src="https://avatars.githubusercontent.com/u/5167332?s=200&v=4" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/raspberrypi/raspberrypi-original.svg" alt="css3" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Mathematica_Logo.svg/330px-Mathematica_Logo.svg.png" alt="css3" width="40" height="40"/>
 

@@ -12,7 +12,7 @@ I'm ParrotMan, or the GrumpyMusician!
 - [Minecraft-Discord Bot Integration](https://github.com/GrumpyMusician/CraftyBot)
 - [Kittyo GeoFS Livery Selector](https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector)
 
-**Written With...**
+**Fluent In...**
 <br>
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="css3" width="40" height="40"/>

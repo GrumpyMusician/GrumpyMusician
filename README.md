@@ -2,7 +2,7 @@
 I'm ParrotMan, or the GrumpyMusician!
 
 **My Current Projects:**
-- [Izaki Keyboard](https://github.com/GrumpyMusician/Izaki-Keyboard-App)
+- [Izaki Keyboard](https://github.com/GrumpyMusician/Izaki-Keyboard)
 - [Oakridge Nuclear Power Plant Split Deaerator](https://github.com/GrumpyMusician/Oakridge-Configurations)
 - [Lego Train Simulator Controller](https://github.com/Mindstorms-for-Train-Simulators/)
 - [Spreadsheet Music Player](https://github.com/GrumpyMusician/spreadsheetmusicplayer)

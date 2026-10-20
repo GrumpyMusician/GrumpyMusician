@@ -2,16 +2,15 @@
 I'm ParrotMan, or the GrumpyMusician!
 
 **My Current Projects:**
-- [Oakridge Nuclear Power Plant Split Deaerator for Calculators](https://github.com/GrumpyMusician/Oakridge-Configurations)
 - [Lego Train Simulator Controller](https://github.com/Mindstorms-for-Train-Simulators/)
 - [Spreadsheet Music Player](https://github.com/GrumpyMusician/spreadsheetmusicplayer)
 - [OpenGeofiction Extracter](https://github.com/GrumpyMusician/OpenGeofiction-Extracter)
+- [Oakridge Nuclear Power Plant Split Deaerator for Calculators](https://github.com/GrumpyMusician/Oakridge-Configurations)
 
 **My Past Projects:**
 - [Minecraft-Discord Bot Integration](https://github.com/GrumpyMusician/CraftyBot)
 - [Kittyo GeoFS Livery Selector](https://github.com/Sunrise-6/Kittyo-Group-Livery-Selector) 
-- [Oakridge Wiki](https://github.com/Koyot-Digital/Wiki)
-- [Oakridge Wiki Migration](https://github.com/Koyot-Digital/New-Wiki)
+- [Oakridge Wiki](https://github.com/Koyot-Digital/Wiki) and [Oakridge Wiki Migration](https://github.com/Koyot-Digital/New-Wiki)
 
 <!--
 **Fluent In...**

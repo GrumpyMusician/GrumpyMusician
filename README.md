@@ -2,7 +2,7 @@
 I'm ParrotMan, or the GrumpyMusician!
 
 **My Current Projects:**
-- [Lego Train Simulator Controller](https://github.com/Mindstorms-for-Train-Simulators/)
+- [Lego Train Simulator Controller](https://github.com/GrumpyMusician/EV3CabControl)
 - [Spreadsheet Music Player](https://github.com/GrumpyMusician/spreadsheetmusicplayer)
 - [OpenGeofiction Extracter](https://github.com/GrumpyMusician/OpenGeofiction-Extracter)
 - [Copilot Hotkeys](https://github.com/GrumpyMusician/parrot-hotkey)

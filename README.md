@@ -14,5 +14,3 @@ I'm ParrotMan, or the GrumpyMusician!
 - [Oakridge Wiki](https://github.com/Koyot-Digital/Wiki) and [Oakridge Wiki Migration](https://github.com/Koyot-Digital/New-Wiki)
 
 <br>
-
-![Top Languages](https://ghstats.dev/api/langs?username=grumpymusician&max_langs=12&layout=horizontal_list )

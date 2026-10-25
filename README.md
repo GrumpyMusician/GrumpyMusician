@@ -14,4 +14,4 @@ I'm ParrotMan, or the GrumpyMusician!
 
 <br>
 
-![Top Languages](https://ghstats.dev/api/langs?username=GrumpyMusician&hide_title=true&max_langs=12&layout=donut)
+![Top Languages](https://ghstats.dev/api/langs?username=grumpymusician&max_langs=12&layout=horizontal_list)

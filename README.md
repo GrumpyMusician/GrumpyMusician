@@ -7,6 +7,7 @@ I'm ParrotMan, or the GrumpyMusician!
 - [OpenGeofiction Extracter](https://github.com/GrumpyMusician/OpenGeofiction-Extracter)
 - [Copilot Hotkeys](https://github.com/GrumpyMusician/parrot-hotkey)
 - [Oakridge Nuclear Power Plant Split Deaerator for Calculators](https://github.com/GrumpyMusician/Oakridge-Configurations)
+- [Izaki Dictionary](https://izaland.github.io/izaki-dictionary/)
 
 **My Past Projects:**
 - [Minecraft-Discord Bot Integration](https://github.com/GrumpyMusician/CraftyBot)

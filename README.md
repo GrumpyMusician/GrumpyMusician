@@ -4,7 +4,7 @@ I'm ParrotMan, or the GrumpyMusician!
 **My Current Projects:**
 - [Lego Train Simulator Controller](https://github.com/GrumpyMusician/EV3CabControl)
 - [Spreadsheet Music Player](https://github.com/GrumpyMusician/spreadsheetmusicplayer)
-- [OpenGeofiction Extracter](https://github.com/GrumpyMusician/OpenGeofiction-Extracter)
+- [Capture OpenGeofiction](https://github.com/GrumpyMusician/capture-opengeofiction)
 - [Copilot Hotkeys](https://github.com/GrumpyMusician/parrot-hotkey)
 - [Oakridge Nuclear Power Plant Split Deaerator for Calculators](https://github.com/GrumpyMusician/Oakridge-Configurations)
 - [Izaki Dictionary](https://izaland.github.io/izaki-dictionary/)
